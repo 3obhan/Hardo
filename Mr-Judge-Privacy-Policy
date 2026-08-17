@@ -1,0 +1,69 @@
+# Privacy Policy / سیاست حفظ حریم خصوصی
+**Mr. Judger | by: Sobhan Ganji © 2026**
+*Last updated: August 2026 / آخرین به‌روزرسانی: مرداد ۱۴۰۵*
+
+---
+
+## 🇮🇷 متن فارسی: سیاست حفظ حریم خصوصی و محرمانگی داده‌ها
+
+سامانه هوشمند داوری و قضاوت **«Mr. Judger» (دادگر)** با احترام کامل به حریم خصوصی کاربران، اطلاعات هویتی و ادله طرفین دعوا را تحت تدابیر امنیتی و استانداردهای محرمانگی محافظت می‌نماید. این سند نحوه دریافت، پردازش، عدم ذخیره‌سازی نامتعارف و حقوق کاربران را تبیین می‌کند.
+
+### ۱. اصل پردازش محلی و محرمانگی صدا و متون
+- **داده‌های صوتی و متن لوایح:** صداهای ضبط‌شده و متون ادعاهای طرفین (خواهان و خوانده) صرفاً جهت استخراج متن و استدلال حقوقی هوش مصنوعی برای همان پرونده جاری پردازش می‌شوند.
+- **عدم فروش و عدم واگذاری اطلاعات:** ادله، صوت، مشخصات و مدارک طرفین تحت هیچ شرایطی فروخته، اجاره یا به شرکت‌های تبلیغاتی ثالث واگذار نمی‌گردد.
+
+### ۲. نحوه ذخیره‌سازی داده‌های پرونده (Local Storage)
+- تاریخچه احکام و آرشیو پرونده‌ها به صورت پیش‌فرض **در حافظه مرورگر محلی کاربر (Local Storage)** ذخیره می‌شود و در سرورهای خارجی ذخیره نمی‌گردد.
+- کاربر هر زمان که تمایل داشته باشد می‌تواند با استفاده از دکمه «پاکسازی بایگانی»، تمامی سوابق را مستقیماً از حافظه دستگاه خود حذف نماید.
+
+### ۳. تراکنش‌ها و پرداخت‌های مالی ($1 USD)
+- تمامی پرداخت‌های مربوط به صدور و چاپ نسخه رسمی PDF از طریق درگاه‌های بین‌المللی معتبر (مانند PayPal و ارائه‌دهندگان پرداخت کارت اعتباری) صورت می‌پذیرد.
+- هیچ‌گونه اطلاعات حساس کارت بانکی (شماره کارت، رمز دوم، CVV2) در سرورهای Mr. Judger ذخیره یا پردازش نمی‌شود.
+
+### ۴. استفاده از هوش مصنوعی و امنیت ارتباطات
+- ارتباط بین مرورگر و سرویس‌ها از طریق پروتکل‌های رمزنگاری‌شده و امن (HTTPS / TLS) برقرار می‌گردد.
+- پردازش‌های منطقی و صدور رأی توسط مدل‌های امن هوش مصنوعی، صرفاً در لحظه انجام گرفته و داده‌های محرمانه پرونده‌ها جهت آموزش مجدد عمومی استفاده نمی‌شوند.
+
+### ۵. حقوق و اختیارات کاربر
+- حق درخواست حذف داده‌های موقت
+- حق مشاهده فوری و مستقل رأی بدون الزام به ثبت‌نام اجباری
+- حق عدم ذخیره‌سازی و استفاده ناشناس از سامانه
+
+### ۶. تماس با توسعه‌دهنده و مسئول حریم خصوصی
+در صورت داشتن هرگونه پرسش، پیشنهاد یا گزارش درباره محرمانگی داده‌ها:
+- **توسعه‌دهنده:** سبحان گنجی (Sobhan Ganji)
+- **ایمیل پشتیبانی:** sobhanganji@gmail.com
+- **کپی‌رایت:** `Mr. Judger | by: Sobhan Ganji © 2026`
+
+---
+
+## 🇬🇧 English Version: Privacy Policy & Data Protection
+
+**Mr. Judger** is committed to upholding the highest standards of user privacy, data confidentiality, and secure AI-assisted legal arbitration. This policy explains how information is collected, processed, and protected.
+
+### 1. Zero Unsolicited Data Retention
+- **Voice & Claim Statements:** Audio recordings and written arguments from both parties (Plaintiff and Defendant) are processed strictly in real-time to transcribe audio and synthesize impartial legal arbitration decrees.
+- **No Third-Party Sharing:** User dispute claims, evidentiary attachments, and transcripts are never sold, rented, or distributed to advertising networks or third parties.
+
+### 2. Client-Side & Local Storage Architecture
+- Case histories and past decrees are stored locally within the user's browser (**Local Storage**).
+- Users retain absolute sovereignty over their data and may purge all records at any time using the "Clear Archive" option in the interface.
+
+### 3. Payment Processing & Financial Security ($1 USD Pass)
+- Single-pass PDF printing licenses ($1.00 USD) are handled through verified international payment gateways (PayPal / Credit Card networks).
+- Mr. Judger does not store, process, or have access to sensitive card details (Card Numbers, Expiry Dates, CVVs).
+
+### 4. AI Processing & Transmission Encryption
+- All client-server communications use end-to-end industry standard encryption (**HTTPS / TLS**).
+- Claim data submitted to AI reasoning pipelines is treated as confidential and is not utilized to train public machine learning datasets.
+
+### 5. User Rights
+- Full access to clear case histories at will.
+- Anonymous case deliberation with no intrusive mandatory profiling.
+- Immediate access to official decree outputs.
+
+### 6. Contact & Data Controller
+For inquiries, legal notices, or feedback regarding data practices:
+- **Developer / Controller:** Sobhan Ganji
+- **Email:** sobhanganji@gmail.com
+- **Copyright:** `Mr. Judger | by: Sobhan Ganji © 2026`
